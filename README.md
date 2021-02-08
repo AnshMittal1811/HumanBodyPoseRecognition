@@ -1,1 +1,1 @@
-# HumanBodyRecognition
+# HumanBodyPoseRecognition
